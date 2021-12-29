@@ -1,0 +1,13 @@
+DOB :- 10-01-1998
+CD  :- 30-12-2021
+
+
+
+Age:-
+	23 years 2 months 29 days,
+	278 months 29 days,
+	1213 weeks 0 days,
+	8,491 days,
+	203,784 hours,
+	12,227,040 minutes,
+	733,622,400 seconds,
